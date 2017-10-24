@@ -5,7 +5,6 @@ import numpy as np
 import cv2
 import math
 from collections import Counter
-from PIL import Image
 
 
 def main():
