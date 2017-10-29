@@ -3,7 +3,7 @@ import struct
 import sys
 from collections import Counter
 import numpy as np
-import matploitlib.pyplot as plt
+import matplotlib.pyplot as plt
 
 
 def main():
